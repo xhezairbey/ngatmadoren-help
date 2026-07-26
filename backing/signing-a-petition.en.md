@@ -16,6 +16,6 @@ Anonymous means your name is not shown in the public list of signers. The petiti
 
 ## What happens next
 
-The petition starter can post updates as the campaign moves forward. If the petition wins, you get told. You can adjust what you are notified about under Settings, on the "Notifications" tab.
+The petition starter can post updates as the cause moves forward. If the petition wins, you get told. You can adjust what you are notified about under Settings, on the "Notifications" tab.
 
 You can sign a petition only once. If you see a message saying the petition is not accepting signatures, it means the petition has closed, has been delivered to its decision maker, or has been marked a victory.
