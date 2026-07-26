@@ -1,0 +1,25 @@
+# Kontributi si vizitor
+
+Fushatat "mbaj çka mbledh" janë kauza ku çdo euro ndihmon menjëherë. Te këto fushata nuk premtoni: ju jepni drejtpërdrejt, pagesa kryhet aty për aty, dhe shuma i mbetet fushatës pavarësisht se sa mblidhet në fund. Për këtë nuk ju duhet fare llogari.
+
+## Si të kontribuoni
+
+1. Hapni faqen e fushatës dhe gjeni kutinë "Kontribuo drejtpërdrejt".
+2. Shkruani shumën që doni të jepni.
+3. Shkruani email-in tuaj. Na duhet vetëm për konfirmimin e pagesës; nuk ju kërkohet të krijoni llogari.
+4. Nëse dëshironi, shtoni një bakshish të vogël vullnetar për platformën. Kjo është plotësisht opsionale dhe mund ta lini në zero.
+5. Shtypni "Kontribuo tani". Do të çoheni te ofruesi ynë i pagesave për ta përfunduar pagesën, dhe pastaj do të ktheheni te një faqe që ju tregon rezultatin.
+
+Nëse jeni tashmë i regjistruar, mund të hyni në llogari përpara se të jepni. Atëherë kontributi shfaqet edhe te faqja juaj "Mbështetjet e mia".
+
+## Çfarë duhet të dini përpara se të jepni
+
+- Kontributi paguhet menjëherë dhe nuk rimbursohet. Ai i mbetet fushatës edhe nëse fushata nuk e arrin objektivin e saj.
+- Një kontribut nuk sjell shpërblim. Ai është një dhurim, jo një porosi.
+- Nga kontributi juaj platforma nuk mban asgjë. E vetmja gjë që zbritet është kostoja reale e përpunimit të pagesës, e cila sot është rreth 1.5% dhe mbahet nga ofruesi i pagesave, jo nga ne.
+
+## Nëse pagesa nuk shkon deri në fund
+
+Nëse e mbyllni faqen e pagesës ose banka juaj e refuzon transaksionin, asgjë nuk ndodh: kontributi nuk regjistrohet dhe nuk tarifoheni. Thjesht provoni sërish nga faqja e fushatës.
+
+Nëse pagesa u krye por nuk e shihni te faqja e fushatës brenda pak minutash, na shkruani dhe do ta gjejmë transaksionin.
