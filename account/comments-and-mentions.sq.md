@@ -26,4 +26,4 @@ Komentin tuaj mund ta fshini kurdo: butoni "Fshi" shfaqet nën të. Krijuesi i f
 
 ## Nëse ju thuhet të prisni
 
-Ekziston një kufi i shpejtësisë kundër abuzimit. Nëse postoni disa komente njërin pas tjetrit, do t'ju kërkohet të prisni pak. Prisni gjysmë minute dhe provoni sërish.
+Ekziston një kufi kundër abuzimit: disa komente njëri pas tjetrit brenda një minute dhe do t'ju kërkohet të prisni. Prisni një minutë dhe provoni sërish.

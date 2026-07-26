@@ -8,7 +8,7 @@ Këtu jetojnë gjërat që keni nisur ju. Për çdo fushatë tuajën shihni gjen
 
 - **Shiko mbështetësit**, raporti që tregon kush pagoi sa dhe cilat shpërblime keni për të përmbushur.
 - **Menaxho përditësimet**, ku shkruani lajmet për mbështetësit tuaj.
-- **Përpuno** ose **Fshi draftin**, sa kohë që fushata është ende draft.
+- **Redakto** ose **Fshi draftin**, sa kohë që fushata është ende draft.
 - **Propozo ndryshime**, nëse fushata është publike dhe ju duhet një korrigjim.
 
 Poshtë fushatave gjenden peticionet tuaja, me të njëjtën logjikë.

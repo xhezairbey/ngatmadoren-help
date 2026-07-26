@@ -26,4 +26,4 @@ You can delete your own comment at any time: the "Delete" button appears underne
 
 ## If you are asked to wait
 
-There is a rate limit in place against abuse. If you post several comments in quick succession, you will be asked to wait a moment. Give it half a minute and try again.
+There is a limit in place against abuse: several comments one after another within a minute and you will be asked to wait. Give it a minute and try again.

@@ -7,7 +7,7 @@ An update is how you tell your backers where the work has got to. Silence is the
 1. Sign in and open your dashboard.
 2. Find your campaign and press "Manage updates".
 3. Write a short title and the body. Markdown is supported, so you can use headings, lists and links.
-4. Press "Publish update".
+4. Press "Post update".
 
 The update appears on the public campaign page straight away and your backers are notified.
 

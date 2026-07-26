@@ -18,7 +18,7 @@ This is the part people worry about most, so here it is plainly. Your details an
 
 Once verification is done, your personal details are deleted within 30 days. We keep only the fact that you are verified and the date. If your submission is rejected, the details are deleted immediately.
 
-You can back out at any time: the "Withdraw and delete my data" button on the same tab removes your details without asking why.
+You can back out at any time: the "Withdraw and delete my details" button on the same tab removes your details without asking why.
 
 ## If you have a business account
 
