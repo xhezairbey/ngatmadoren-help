@@ -16,6 +16,6 @@ Anonim do të thotë që emri juaj nuk shfaqet në listën publike të nënshkru
 
 ## Çfarë ndodh më pas
 
-Nisësi i peticionit mund të publikojë përditësime ndërsa çështja ecën përpara. Nëse peticioni fiton, ju njoftohemi. Preferencat e njoftimeve i rregulloni te Cilësimet, te skeda "Njoftimet".
+Nisësi i peticionit mund të publikojë përditësime ndërsa çështja ecën përpara. Nëse peticioni fiton, ju njoftoheni. Preferencat e njoftimeve i rregulloni te Cilësimet, te skeda "Njoftimet".
 
 Mund ta nënshkruani një peticion vetëm një herë. Nëse shihni një mesazh që thotë se peticioni nuk po pranon nënshkrime, kjo do të thotë se ai është mbyllur, është dorëzuar te vendimmarrësi, ose është shënuar si fitore.
