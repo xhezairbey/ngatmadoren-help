@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "parts": [
+    {
+      "category": "backing",
+      "articles": [
+        "how-pledging-works",
+        "contributing-as-a-guest",
+        "signing-a-petition"
+      ]
+    },
+    {
+      "category": "campaigns",
+      "articles": [
+        "creating-a-campaign",
+        "verification",
+        "fees-and-payouts",
+        "posting-updates"
+      ]
+    },
+    {
+      "category": "account",
+      "articles": [
+        "signing-up-and-signing-in",
+        "two-factor-authentication",
+        "editing-your-profile",
+        "my-panel-overview",
+        "comments-and-mentions",
+        "deleting-your-account"
+      ]
+    }
+  ]
+}

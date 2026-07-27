@@ -20,6 +20,7 @@ reviewer would otherwise have to guess at. Delete any section that does not appl
 - [ ] `bin/validate.sh` passes locally
 - [ ] Article opens with a `# ` heading
 - [ ] Any new `/help/...` links point at articles that exist
+- [ ] A new article is listed in `manual.json`, in the right reading position
 - [ ] No em dashes, no emoji (see [STYLE.md](../STYLE.md))
 
 ## Anything that needs a matching change on the site

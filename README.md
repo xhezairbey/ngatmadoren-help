@@ -29,6 +29,28 @@ articles are written.
 Every article exists in **both** locales. The article's title is its first `# ` heading, so every
 file opens with one.
 
+## `manual.json` — the reading order
+
+The manual is meant to be read as a book, not just searched. `manual.json` declares its order: which
+parts, in which order, and which articles within each part.
+
+```json
+{
+  "version": 1,
+  "parts": [
+    { "category": "backing", "articles": ["how-pledging-works", "..."] }
+  ]
+}
+```
+
+The order is **pedagogical, not alphabetical**. An article should come after whatever a reader needs
+to understand it first.
+
+This file drives the site's next/prev links, the sidebar, and the printed manual. An article that
+exists as a file but is missing from `manual.json` is published at a working URL that nothing links
+to and no listing shows, so **adding an article means adding it here too**. `bin/validate.sh` treats
+any mismatch in either direction as an error.
+
 Articles cross-link each other with root-relative paths, because markdown cannot build the site's
 URLs itself:
 

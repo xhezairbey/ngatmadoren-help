@@ -41,9 +41,13 @@ English, you can improve this manual.
    breaks every link to the article.
 4. Open each file with a `# ` heading. That heading is the article's title everywhere on the site,
    so it should read as a title and not as a sentence.
-5. Link the new article from any existing article that should point at it. An article nothing links
+5. **Add it to `manual.json`**, in the position a reader should meet it. The manual has a reading
+   order, and it is pedagogical rather than alphabetical: put the article after whatever someone
+   needs to understand it first. An article left out of `manual.json` is published at a working URL
+   that no listing shows and nothing links to, which is why the check treats it as an error.
+6. Link the new article from any existing article that should point at it. An article nothing links
    to is one nobody finds.
-6. Run `bin/validate.sh`.
+7. Run `bin/validate.sh`.
 
 ## Changing a number
 

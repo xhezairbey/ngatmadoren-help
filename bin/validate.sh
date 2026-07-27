@@ -128,6 +128,13 @@ for file in "${articles[@]}"; do
     fi
 done
 
+# ── 6. The manifest matches the files ────────────────────────────────────────
+# manual.json is the manual's table of contents. An article missing from it still
+# has a working URL but appears in no listing and nothing links to it, so drift here
+# publishes invisible pages. Detail lives in bin/check-manifest.py.
+echo "▸ manual.json matches the articles on disk"
+python3 bin/check-manifest.py || fail=1
+
 # ── Verdict ──────────────────────────────────────────────────────────────────
 echo
 if [ "$fail" -eq 0 ]; then
