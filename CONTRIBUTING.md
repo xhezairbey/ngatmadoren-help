@@ -63,6 +63,15 @@ The three categories are declared in the application's code as well as existing 
 here, and the site's tests assert the two agree. Creating a new directory here on its own will
 break the site's build. Open an issue and we will make the two changes together.
 
+## The manual is also a PDF
+
+The whole manual is offered as a downloadable book, generated from these articles. It is a committed
+file on the site's side, so it does not update itself when an article changes here.
+
+You do not have to do anything about it. A maintainer re-renders it when they bump the site's pin,
+and the site's tests refuse to build if they forget. It is worth knowing about only because it means
+your merged change is not in the PDF until that happens.
+
 ## What happens after you open a pull request
 
 - A check runs `bin/validate.sh` on your branch. It has to be green.
