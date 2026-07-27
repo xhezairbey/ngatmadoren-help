@@ -1,0 +1,28 @@
+# Content gate for the manual.
+#
+# This repository is public, so GitHub-hosted Actions minutes are free here. That is
+# why this workflow exists even though the application repository deliberately does
+# not use hosted Actions as its gate (it runs its gate locally via a pre-push hook).
+#
+# This checks structure. It cannot check whether the writing is any good, and it
+# cannot see the platform's configuration, so it cannot verify the money figures the
+# articles quote. The application's own test suite does that when the pinned commit
+# is bumped.
+name: validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  content:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate content
+        run: bin/validate.sh
