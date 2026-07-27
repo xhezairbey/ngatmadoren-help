@@ -4,7 +4,7 @@ Creating a campaign happens in a five-step wizard. You can stop at any point: yo
 
 ## Before you start
 
-You need an individual account with a confirmed email address. Business accounts can back campaigns, but they cannot create campaigns or petitions. If this is your first time, read the [campaign guide](/campaigns/guide): it shows you how to build a story, a budget and a reward ladder that actually work.
+You need an individual account with a confirmed email address. Business accounts can back campaigns, but they cannot create campaigns. If this is your first time, read the [campaign guide](/campaigns/guide): it shows you how to build a story, a budget and a reward ladder that actually work.
 
 ## The five steps
 

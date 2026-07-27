@@ -18,7 +18,7 @@ The link works once and then expires. If you click it twice, or try it much late
 
 ## Your first time
 
-After your first sign-in you are asked one thing: whether you will use NgatmaDorën as an individual or as a business. This step cannot be skipped, because it decides what you can do: individuals create campaigns and petitions, while businesses appear as verified backers and post jobs. The rest of the welcome steps are optional and you can fill them in later.
+After your first sign-in you are asked one thing: whether you will use NgatmaDorën as an individual or as a business. This step cannot be skipped, because it decides what you can do: individuals create campaigns, while businesses appear as verified backers. The rest of the welcome steps are optional and you can fill them in later.
 
 ## Confirming your email
 

@@ -25,4 +25,3 @@ Nuk ka problem. Nga e njëjta faqe mund ta përpunoni ose ta fshini një përdit
 - Çfarë vjen më pas dhe kur e prisni.
 - Nëse diçka është vonuar, thojeni hapur dhe jepni një afat të ri. Mbështetësit e kuptojnë një vonesë të komunikuar; nuk e kuptojnë heshtjen.
 
-Edhe peticionet kanë përditësime, dhe funksionojnë njësoj: i publikoni nga faqja e peticionit tuaj, dhe nënshkruesit i lexojnë.

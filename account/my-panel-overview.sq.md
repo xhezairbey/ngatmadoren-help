@@ -11,8 +11,6 @@ Këtu jetojnë gjërat që keni nisur ju. Për çdo fushatë tuajën shihni gjen
 - **Redakto** ose **Fshi draftin**, sa kohë që fushata është ende draft.
 - **Propozo ndryshime**, nëse fushata është publike dhe ju duhet një korrigjim.
 
-Poshtë fushatave gjenden peticionet tuaja, me të njëjtën logjikë.
-
 ## Mbështetjet e mia
 
 Këtu jetojnë gjërat që keni mbështetur ju: premtimet dhe kontributet, në një listë të vetme. Nëse një fushatë ka pasur sukses dhe premtimi juaj pret pagesën, butoni "Paguaj tani" është pikërisht këtu.

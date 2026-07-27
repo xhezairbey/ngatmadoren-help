@@ -1,6 +1,6 @@
 # Editing your profile
 
-Your profile is what the community sees when they open one of your campaigns, petitions or comments. Every change is made from a single page: choose "Profile" from the account menu at the top right.
+Your profile is what the community sees when they open one of your campaigns or comments. Every change is made from a single page: choose "Profile" from the account menu at the top right.
 
 The page has four tabs: Profile, Account, Verification and Notifications.
 

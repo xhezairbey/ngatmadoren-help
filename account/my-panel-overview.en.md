@@ -11,8 +11,6 @@ This is where the things you started live. For each of your campaigns you see it
 - **Edit** or **Delete draft**, while the campaign is still a draft.
 - **Propose changes**, if the campaign is public and you need a correction.
 
-Below your campaigns sit your petitions, working the same way.
-
 ## My backing
 
 This is where the things you supported live: your pledges and your contributions, in one list. If a campaign succeeded and your pledge is waiting to be paid, the "Pay now" button is right here.

@@ -5,17 +5,29 @@
       "category": "backing",
       "articles": [
         "how-pledging-works",
+        "choosing-a-reward",
+        "paying-your-pledge",
         "contributing-as-a-guest",
-        "signing-a-petition"
+        "standing-behind-someone",
+        "reporting-something",
+        "becoming-an-ambassador",
+        "becoming-a-reviewer"
       ]
     },
     {
       "category": "campaigns",
       "articles": [
         "creating-a-campaign",
+        "choosing-a-funding-model",
+        "offering-rewards",
+        "crediting-your-team",
         "verification",
+        "editing-a-live-campaign",
+        "sharing-your-campaign",
+        "posting-updates",
+        "extending-the-collection-window",
         "fees-and-payouts",
-        "posting-updates"
+        "seeing-who-backed-you"
       ]
     },
     {
@@ -24,6 +36,7 @@
         "signing-up-and-signing-in",
         "two-factor-authentication",
         "editing-your-profile",
+        "your-notifications",
         "my-panel-overview",
         "comments-and-mentions",
         "deleting-your-account"

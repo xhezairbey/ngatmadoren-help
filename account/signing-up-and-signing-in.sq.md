@@ -18,7 +18,7 @@ Lidhja punon vetëm një herë dhe skadon. Nëse e shtypni dy herë ose e provon
 
 ## Herën e parë
 
-Pas hyrjes së parë do t'ju kërkohet një gjë e vetme: nëse do ta përdorni NgatmaDorën si individ apo si biznes. Ky hap nuk kapërcehet, sepse përcakton çfarë mund të bëni: individët krijojnë fushata e peticione, ndërsa bizneset shfaqen si mbështetës të verifikuar dhe publikojnë vende pune. Hapat e tjerë të mirëseardhjes janë opsionalë dhe mund t'i plotësoni më vonë.
+Pas hyrjes së parë do t'ju kërkohet një gjë e vetme: nëse do ta përdorni NgatmaDorën si individ apo si biznes. Ky hap nuk kapërcehet, sepse përcakton çfarë mund të bëni: individët krijojnë fushata, ndërsa bizneset shfaqen si mbështetës të verifikuar. Hapat e tjerë të mirëseardhjes janë opsionalë dhe mund t'i plotësoni më vonë.
 
 ## Konfirmimi i email-it
 

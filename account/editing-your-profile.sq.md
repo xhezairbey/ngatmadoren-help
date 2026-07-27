@@ -1,6 +1,6 @@
 # Përpunimi i profilit
 
-Profili juaj është ajo që sheh komuniteti kur hap një fushatë, një peticion ose një koment tuajin. Të gjitha ndryshimet bëhen nga një faqe e vetme: zgjidhni "Profili" nga menyja e llogarisë lart djathtas.
+Profili juaj është ajo që sheh komuniteti kur hap një fushatë ose një koment tuajin. Të gjitha ndryshimet bëhen nga një faqe e vetme: zgjidhni "Profili" nga menyja e llogarisë lart djathtas.
 
 Faqja ka katër skeda: Profili, Llogaria, Verifikimi dhe Njoftimet.
 

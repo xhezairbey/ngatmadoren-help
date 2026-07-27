@@ -4,7 +4,7 @@ Krijimi i një fushate bëhet me një asistent me pesë hapa. Mund ta ndaloni n�
 
 ## Përpara se të filloni
 
-Ju duhet një llogari individuale me email të konfirmuar. Llogaritë e bizneseve mund të mbështesin fushata, por nuk mund të krijojnë fushata a peticione. Nëse është hera juaj e parë, lexoni [udhëzuesin e fushatave](/campaigns/guide): ai ju tregon si të ndërtoni një histori, një buxhet dhe një shkallë shpërblimesh që funksionojnë.
+Ju duhet një llogari individuale me email të konfirmuar. Llogaritë e bizneseve mund të mbështesin fushata, por nuk mund të krijojnë fushata. Nëse është hera juaj e parë, lexoni [udhëzuesin e fushatave](/campaigns/guide): ai ju tregon si të ndërtoni një histori, një buxhet dhe një shkallë shpërblimesh që funksionojnë.
 
 ## Pesë hapat
 

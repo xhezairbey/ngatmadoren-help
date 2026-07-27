@@ -25,4 +25,3 @@ That is fine. From the same page you can edit or delete an update of yours. Do n
 - What comes next and when you expect it.
 - If something has slipped, say so openly and give a new date. Backers understand a delay that is explained; they do not understand silence.
 
-Petitions have updates too, and they work the same way: you post them from your petition page, and signers read them.
