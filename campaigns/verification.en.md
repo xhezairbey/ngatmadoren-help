@@ -14,7 +14,7 @@ From there your status shows as under review until our team looks at it.
 
 ## What happens to your data
 
-This is the part people worry about most, so here it is plainly. Your details and your document are stored encrypted. They are never shown publicly and no other creator or backer can see them; only our review team has access.
+This is the part people worry about most, so here it is plainly. Your details and your document are stored encrypted. They are never shown publicly and no other initiator or backer can see them; only our review team has access.
 
 Once verification is done, your personal details are deleted within 30 days. We keep only the fact that you are verified and the date. If your submission is rejected, the details are deleted immediately.
 

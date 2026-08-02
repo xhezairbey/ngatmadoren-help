@@ -11,7 +11,7 @@ Këtu qëndron gjithçka publike:
 - **Emri.** Emri që shfaqet pranë fushatave dhe komenteve tuaja.
 - **Emri i përdoruesit.** Adresa juaj publike, ngatmadoren.com/@emri-juaj. Shkronja të vogla, numra dhe vija ndarëse, nga 3 deri në 30 karaktere. **Mund ta ndryshoni vetëm një herë**, prandaj zgjidheni me kujdes; pas ndryshimit ai mbetet i përhershëm.
 - **Fotoja dhe kopertina.** Pas ngarkimit mund ta zvarritni foton për ta ripozicionuar dhe të përdorni rrëshqitësin për ta zmadhuar, pastaj ruani kuadrimin.
-- **Profili i krijuesit.** Profesioni, qyteti, biografia dhe lidhjet e rrjeteve sociale. Gjinia është opsionale dhe mund të lihet bosh.
+- **Profili i nismëtarit.** Profesioni, qyteti, biografia dhe lidhjet e rrjeteve sociale. Gjinia është opsionale dhe mund të lihet bosh.
 
 Këtu gjendet edhe lidhja për të rihapur asistentin e mirëseardhjes, nëse e patët kapërcyer herën e parë.
 

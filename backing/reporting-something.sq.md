@@ -24,4 +24,4 @@ Nëse e keni raportuar tashmë të njëjtën gjë, do t'ju themi se raporti ësh
 
 Përmbajtje që mashtron, gjuhë urrejtjeje, ngacmim, ose një fushatë që nuk duket e vërtetë. Nëse jeni në dyshim, raportojeni. Është më mirë të na e sillni në vëmendje sesa ta lini.
 
-Për një mosmarrëveshje me një krijues rreth një shpërblimi, filloni te faqja e fushatës ose te formulari i kontaktit. Raportimi është për përmbajtje që shkel rregullat, jo për shërbimin ndaj klientit.
+Për një mosmarrëveshje me një nismëtar rreth një shpërblimi, filloni te faqja e fushatës ose te formulari i kontaktit. Raportimi është për përmbajtje që shkel rregullat, jo për shërbimin ndaj klientit.

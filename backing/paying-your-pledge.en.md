@@ -22,4 +22,4 @@ The collection window has an end. You will get reminders before it closes. Those
 
 If the window closes without your payment, your pledge is not collected. There is no penalty and nothing is asked of you, but the project receives less than it expected.
 
-The creator can extend the window once. See [extending the collection window](/help/campaigns/extending-the-collection-window).
+The initiator can extend the window once. See [extending the collection window](/help/campaigns/extending-the-collection-window).

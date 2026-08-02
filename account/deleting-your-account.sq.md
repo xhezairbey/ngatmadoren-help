@@ -14,7 +14,7 @@ Nëse doni të largoheni, mund ta fshini vetë llogarinë tuaj. Nuk ju duhet të
 
 Fshihen përgjithmonë emri, fotoja dhe kopertina, biografia dhe lidhjet sociale, qyteti, si dhe çdo e dhënë identiteti që keni dërguar për verifikim.
 
-Të dhënat që lidhen me para nuk fshihen. Nëse keni premtuar, kontribuar ose mbledhur fonde, ato regjistrime mbeten të lidhura me një llogari anonime pa asnjë të dhënë personale, për aq kohë sa na e kërkon ligji për regjistrimet financiare. Kjo mbron edhe mbështetësit edhe krijuesit. Në një llogari të mbyllur nuk mund të ndodhë asnjë veprimtari e re.
+Të dhënat që lidhen me para nuk fshihen. Nëse keni premtuar, kontribuar ose mbledhur fonde, ato regjistrime mbeten të lidhura me një llogari anonime pa asnjë të dhënë personale, për aq kohë sa na e kërkon ligji për regjistrimet financiare. Kjo mbron edhe mbështetësit edhe nismëtarët. Në një llogari të mbyllur nuk mund të ndodhë asnjë veprimtari e re.
 
 ## Nëse fshirja bllokohet
 

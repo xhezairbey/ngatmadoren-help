@@ -4,7 +4,7 @@ On NgatmaDorën you can publicly stand behind another member. It is the communit
 
 ## Why it matters
 
-A profile with people behind it reads differently from an empty one. When someone opens a campaign and sees that five members stand behind the creator, they have something concrete to go on.
+A profile with people behind it reads differently from an empty one. When someone opens a campaign and sees that five members stand behind the initiator, they have something concrete to go on.
 
 This matters most for people who have just arrived on the platform and do not yet have a finished campaign behind them.
 

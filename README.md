@@ -21,7 +21,7 @@ articles are written.
 
 - **category** is one of the three audience doors, and it is the first URL segment:
   - `backing` — for people backing campaigns, contributing, or signing petitions
-  - `campaigns` — for creators: creating, verifying, fees, payouts, updates
+  - `campaigns` — for initiators: creating, verifying, fees, payouts, updates
   - `account` — signing in, security, profile, panel, closing an account
 - **slug** is the second URL segment: lowercase words joined by single dashes.
 - **locale** is `sq` (Albanian, the default) or `en` (English).

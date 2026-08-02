@@ -4,7 +4,7 @@ Në NgatmaDorën ju mund të qëndroni publikisht pas një anëtari tjetër. Ës
 
 ## Pse ka rëndësi
 
-Një profil me njerëz pas tij lexohet ndryshe nga një profil i zbrazët. Kur dikush hap një fushatë dhe sheh se pesë anëtarë qëndrojnë pas krijuesit, ka diçka konkrete mbi të cilën të mbështetet.
+Një profil me njerëz pas tij lexohet ndryshe nga një profil i zbrazët. Kur dikush hap një fushatë dhe sheh se pesë anëtarë qëndrojnë pas nismëtarit, ka diçka konkrete mbi të cilën të mbështetet.
 
 Kjo është veçanërisht e rëndësishme për njerëz që sapo kanë ardhur në platformë dhe ende nuk kanë një fushatë të përfunduar pas shpine.
 

@@ -24,4 +24,4 @@ If you have already reported the same thing, we will tell you the report has bee
 
 Content that misleads, hate speech, harassment, or a campaign that does not look genuine. If you are in doubt, report it. Better to bring it to our attention than to leave it.
 
-For a disagreement with a creator about a reward, start on the campaign page or with the contact form. Reporting is for content that breaks the rules, not for customer service.
+For a disagreement with an initiator about a reward, start on the campaign page or with the contact form. Reporting is for content that breaks the rules, not for customer service.

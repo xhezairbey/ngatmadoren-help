@@ -13,7 +13,7 @@ Kur mbështetni një fushatë "gjithçka ose asgjë", ju jepni një premtim: nj�
 
 Fushata ka sukses dhe hapet dritarja e mbledhjes: rreth 14 ditë gjatë të cilave mbështetësve u kërkohet ta kryejnë pagesën. Do të merrni një email me lidhjen "Paguaj tani", dhe të njëjtën lidhje e gjeni te faqja "Mbështetjet e mia". Pagesa kryhet te ofruesi ynë i pagesave, jo drejtpërdrejt te ne.
 
-Nëse krijuesit i duhet pak më shumë kohë, dritarja e mbledhjes mund të zgjatet një herë të vetme.
+Nëse nismëtarit i duhet pak më shumë kohë, dritarja e mbledhjes mund të zgjatet një herë të vetme.
 
 ## Nëse fushata mbetet nën minimum
 

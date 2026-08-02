@@ -11,7 +11,7 @@ This is where everything public lives:
 - **Name.** The name shown next to your campaigns and comments.
 - **Username.** Your public address, ngatmadoren.com/@your-name. Lowercase letters, numbers and hyphens, 3 to 30 characters. **You can change it only once**, so pick carefully; after that change it is permanent.
 - **Photo and cover.** After uploading you can drag the image to reposition it and use the slider to zoom, then save the crop.
-- **Creator profile.** Profession, city, bio and your social links. Gender is optional and can be left blank.
+- **Initiator profile.** Profession, city, bio and your social links. Gender is optional and can be left blank.
 
 This tab also holds the link to reopen the welcome wizard, if you skipped it the first time round.
 

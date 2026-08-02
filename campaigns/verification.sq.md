@@ -14,7 +14,7 @@ Prej aty gjendja juaj shfaqet si "në shqyrtim" derisa ekipi ynë ta shohë.
 
 ## Çfarë ndodh me të dhënat tuaja
 
-Kjo është pjesa që i shqetëson më shumë njerëzit, prandaj po e themi qartë. Të dhënat dhe dokumenti juaj ruhen të enkriptuara. Nuk shfaqen kurrë publikisht dhe nuk i sheh asnjë krijues a mbështetës tjetër; vetëm ekipi ynë i shqyrtimit ka qasje.
+Kjo është pjesa që i shqetëson më shumë njerëzit, prandaj po e themi qartë. Të dhënat dhe dokumenti juaj ruhen të enkriptuara. Nuk shfaqen kurrë publikisht dhe nuk i sheh asnjë nismëtar a mbështetës tjetër; vetëm ekipi ynë i shqyrtimit ka qasje.
 
 Pasi verifikimi kryhet, të dhënat personale fshihen brenda 30 ditësh. Ne mbajmë vetëm faktin që jeni i verifikuar dhe datën. Nëse kërkesa juaj refuzohet, të dhënat fshihen menjëherë.
 

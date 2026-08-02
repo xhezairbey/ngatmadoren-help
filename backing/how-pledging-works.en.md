@@ -13,7 +13,7 @@ When you back an all-or-nothing campaign you make a pledge: a promise to pay lat
 
 The campaign succeeds and the collection window opens: around 14 days in which backers are asked to complete payment. You will get an email with a "Pay now" link, and the same link waits for you on your "My backing" page. Payment happens at our payment provider, not directly with us.
 
-If the creator needs a little more time, the collection window can be extended once.
+If the initiator needs a little more time, the collection window can be extended once.
 
 ## If the campaign falls short
 

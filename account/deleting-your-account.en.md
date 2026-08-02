@@ -14,7 +14,7 @@ If you want to leave, you can delete your account yourself. You do not need to w
 
 Erased for good: your name, your photo and cover, your bio and social links, your city, and any identity details you submitted for verification.
 
-Records tied to money are not deleted. If you pledged, contributed or raised funds, those records stay attached to an anonymized account holding no personal data, for as long as the law requires us to keep financial records. This protects backers and creators alike. No new activity is possible on a closed account.
+Records tied to money are not deleted. If you pledged, contributed or raised funds, those records stay attached to an anonymized account holding no personal data, for as long as the law requires us to keep financial records. This protects backers and initiators alike. No new activity is possible on a closed account.
 
 ## If deletion is blocked
 

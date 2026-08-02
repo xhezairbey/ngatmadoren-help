@@ -11,12 +11,12 @@ Nëse premtoni më shumë se çmimi i një niveli, ju takon ai nivel. Nuk ju duh
 ## Çfarë duhet të dini
 
 - Shpërblimet ekzistojnë vetëm te fushatat "gjithçka ose asgjë". Fushatat "mbaj çka mbledh" mbledhin kontribute të drejtpërdrejta, pa shpërblime. Shihni [dy modelet e financimit](/help/campaigns/choosing-a-funding-model).
-- Shpërblimi nuk është një porosi. Ju po mbështetni një projekt, dhe shpërblimi është falënderimi i krijuesit.
-- Data e dorëzimit që shihni është një vlerësim i krijuesit, jo një premtim i platformës.
+- Shpërblimi nuk është një porosi. Ju po mbështetni një projekt, dhe shpërblimi është falënderimi i nismëtarit.
+- Data e dorëzimit që shihni është një vlerësim i nismëtarit, jo një premtim i platformës.
 - Nëse fushata nuk e arrin minimumin, askush nuk tarifohet dhe asnjë shpërblim nuk lind.
 
 ## Kush e dorëzon shpërblimin
 
-Krijuesi, jo ne. Pas mbledhjes, krijuesi sheh listën e mbështetësve që kanë paguar dhe shpërblimin që i takon secilit, dhe ju kontakton drejtpërdrejt.
+Nismëtari, jo ne. Pas mbledhjes, nismëtari sheh listën e mbështetësve që kanë paguar dhe shpërblimin që i takon secilit, dhe ju kontakton drejtpërdrejt.
 
-Nëse diçka nuk shkon me dorëzimin, filloni duke i shkruar krijuesit te faqja e fushatës. Nëse nuk merrni përgjigje, na shkruani nga formulari i kontaktit.
+Nëse diçka nuk shkon me dorëzimin, filloni duke i shkruar nismëtarit te faqja e fushatës. Nëse nuk merrni përgjigje, na shkruani nga formulari i kontaktit.
