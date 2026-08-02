@@ -22,7 +22,7 @@ Një përmendje e njohur kthehet në lidhje drejt profilit të atij anëtari dhe
 
 ## Fshirja e një komenti
 
-Komentin tuaj mund ta fshini kurdo: butoni "Fshi" shfaqet nën të. Krijuesi i fushatës mund të fshijë çdo koment te fushata e vet, që të mund ta mbajë bisedën të pastër.
+Komentin tuaj mund ta fshini kurdo: butoni "Fshi" shfaqet nën të. Nismëtari i fushatës mund të fshijë çdo koment te fushata e vet, që të mund ta mbajë bisedën të pastër.
 
 ## Nëse ju thuhet të prisni
 

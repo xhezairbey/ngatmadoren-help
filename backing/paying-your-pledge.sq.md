@@ -22,4 +22,4 @@ Dritarja e mbledhjes ka një fund. Do të merrni kujtues përpara se të mbyllet
 
 Nëse dritarja mbyllet pa pagesën tuaj, premtimi juaj nuk mblidhet. Nuk ka gjobë dhe nuk ju kërkohet asgjë, por projekti merr më pak se sa priste.
 
-Krijuesi mund ta zgjasë dritarjen një herë të vetme. Shihni [zgjatjen e dritares](/help/campaigns/extending-the-collection-window).
+Nismëtari mund ta zgjasë dritarjen një herë të vetme. Shihni [zgjatjen e dritares](/help/campaigns/extending-the-collection-window).
