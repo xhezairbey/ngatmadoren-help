@@ -19,7 +19,7 @@ Për kauza: çdo kontribut mbetet.
 
 - Për ndihmë të drejtpërdrejtë ndaj njerëzve dhe komuniteteve: shëndet, urgjenca, mbështetje.
 - Çdo kontribut mblidhet menjëherë dhe mbetet te fushata, pavarësisht rezultatit.
-- NgatmaDorën nuk mban asgjë. Mbahet vetëm kostoja e përpunimit të pagesës, dhe atë e mban ofruesi i pagesave, jo ne.
+- NgatmaDorën nuk mban asgjë. E vetmja gjë që zbritet është një normë e fiksuar e përpunimit të kartave, në nivel kostoje; shihni [tarifat](/fees).
 - Nuk ka shpërblime.
 
 Ky model i përshtatet kauzave ku çdo euro ndihmon menjëherë, edhe nëse shuma e plotë nuk arrihet kurrë.

@@ -19,7 +19,7 @@ For causes: every contribution stays.
 
 - For direct help to people and communities: health, emergencies, relief.
 - Every contribution collects immediately and stays with the campaign, whatever the outcome.
-- NgatmaDorën keeps nothing. Only the payment-processing cost is kept, and the payment provider keeps that, not us.
+- NgatmaDorën keeps nothing. The only deduction is a flat, at-cost card-processing rate; see [fees](/fees).
 - There are no rewards.
 
 This model suits causes where every euro helps at once, even if the full amount is never reached.
