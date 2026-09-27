@@ -12,7 +12,7 @@ You need an individual account with a confirmed email address. Business accounts
 2. **Funding goal.** This is also where you choose your funding model. All-or-nothing has a minimum and a deadline: if the minimum is not reached, nobody is charged. Keep-what-you-raise has no minimum and no rewards: money is paid immediately and stays with the cause. The model is chosen once and cannot be changed later, so think it through.
 3. **Rewards.** Optional, and only on all-or-nothing campaigns. Give each tier a price, a description, a delivery estimate and, when something is genuinely limited, a quantity cap.
 4. **Your pitch.** The full story, the main photo, the gallery and, if you have one, a YouTube or Vimeo video.
-5. **Review & submit.** One last look over everything, then you send it for review.
+5. **Review & submit.** One last look over everything, including whether the campaign is [listed or unlisted](/help/campaigns/listed-or-unlisted), then you send it for review.
 
 ## What happens after you submit
 

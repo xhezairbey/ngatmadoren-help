@@ -8,6 +8,8 @@ Te faqja e fushatës gjeni pjesën e ndarjes dhe shtypni "Kopjo lidhjen". Kjo ë
 
 Lidhja funksionon për këdo, edhe pa llogari. Njerëzit mund të kontribuojnë si vizitorë. Shihni [kontributin si vizitor](/help/backing/contributing-as-a-guest).
 
+Nëse fushata juaj është [e palistuar](/help/campaigns/listed-or-unlisted), kjo lidhje është mënyra e vetme që dikush ta gjejë: platforma nuk e shfaq askund tjetër. Paneli juaj është ku e gjeni, pranë lidhjes "Shiko fushatën" të fushatës.
+
 ## Vendosja e fushatës në një faqe tjetër
 
 Nëse ju ose organizata juaj keni një faqe interneti, mund ta vendosni fushatën aty. Shtypni "Kopjo kodin e vendosjes" dhe ngjiteni atë kod te faqja juaj.

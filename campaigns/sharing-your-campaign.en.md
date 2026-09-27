@@ -8,6 +8,8 @@ On the campaign page, find the share section and press "Copy link". This is the 
 
 The link works for anyone, with or without an account. People can contribute as guests. See [contributing as a guest](/help/backing/contributing-as-a-guest).
 
+If your campaign is [unlisted](/help/campaigns/listed-or-unlisted), this link is the only way anyone finds it: the platform shows it nowhere else. Your dashboard is where you get it, next to the campaign's "View campaign" link.
+
 ## Putting the campaign on another site
 
 If you or your organisation have a website, you can embed the campaign there. Press "Copy embed code" and paste that code into your page.

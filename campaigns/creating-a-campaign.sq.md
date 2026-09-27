@@ -12,7 +12,7 @@ Ju duhet një llogari individuale me email të konfirmuar. Llogaritë e biznesev
 2. **Objektivi i financimit.** Këtu zgjidhni edhe modelin e financimit. "Gjithçka-ose-asgjë" ka një minimum dhe një afat: nëse minimumi nuk arrihet, askush nuk tarifohet. "Mbaj çka mbledh" nuk ka minimum dhe as shpërblime: paratë paguhen menjëherë dhe i mbeten kauzës. Modeli zgjidhet një herë dhe nuk mund të ndryshohet më vonë, prandaj mendojeni mirë.
 3. **Shpërblimet.** Opsionale, dhe vetëm te fushatat "gjithçka-ose-asgjë". Vendosni një çmim, një përshkrim, një afat dorëzimi dhe, nëse diçka është vërtet e limituar, një kufi sasie.
 4. **Prezantimi juaj.** Historia e plotë, fotoja kryesore, galeria dhe, nëse keni, një video nga YouTube ose Vimeo.
-5. **Shqyrto & dorëzo.** Një shikim i fundit mbi gjithçka, pastaj e dërgoni për shqyrtim.
+5. **Shqyrto & dorëzo.** Një shikim i fundit mbi gjithçka, përfshirë nëse fushata është [e listuar apo e palistuar](/help/campaigns/listed-or-unlisted), pastaj e dërgoni për shqyrtim.
 
 ## Çfarë ndodh pas dorëzimit
 
