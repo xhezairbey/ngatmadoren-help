@@ -8,7 +8,7 @@ The platform keeps 5% of the funds collected. That is our revenue and it is not 
 
 ## Keep-what-you-raise campaigns
 
-The platform keeps no percentage at all. The only deduction is the real cost of processing payments, currently around 1.5%, and that goes to the payment provider rather than to us. We keep that figure in line with what we are actually charged; there is no margin on top of it.
+The platform keeps no percentage at all. The only deduction is a flat, at-cost card-processing rate, currently 1.5% (an estimate until a payment provider is chosen). It covers the real cost of accepting cards, which varies by the card's issuing country, and we keep the rate in line with what we are actually charged, with no margin added. Your payout breakdown shows this deduction on your own figures. See [fees](/fees) for the full picture, including why the rate varies by country.
 
 ## Before you can be paid: your payout account
 

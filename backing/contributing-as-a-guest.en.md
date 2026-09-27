@@ -16,7 +16,7 @@ If you already have an account, you can sign in before giving. Your contribution
 
 - A contribution is paid immediately and is not refundable. It stays with the campaign even if the campaign does not reach its goal.
 - A contribution carries no reward. It is a donation, not an order.
-- The platform keeps nothing from your contribution. The only deduction is the real cost of processing the payment, currently around 1.5%, and that is taken by the payment provider, not by us.
+- The platform keeps nothing from your contribution. The only deduction is a flat, at-cost card-processing rate, currently 1.5% (an estimate until a payment provider is chosen), which covers the real cost of accepting cards; that cost varies by your card's issuing country. See [fees](/fees) for how it works.
 
 ## If the payment does not go through
 

@@ -8,7 +8,7 @@ Platforma mban 5% të fondeve të mbledhura. Kjo është e ardhura jonë dhe nuk
 
 ## Fushatat "mbaj çka mbledh"
 
-Platforma nuk mban asnjë përqindje. E vetmja gjë që zbritet është kostoja e vërtetë e përpunimit të pagesave, sot rreth 1.5%, e cila i shkon ofruesit të pagesave dhe jo neve. Këtë shifër e mbajmë në përputhje me koston reale që na faturohet; nuk ka marzh mbi të.
+Platforma nuk mban asnjë përqindje. E vetmja gjë që zbritet është një normë e fiksuar e përpunimit të kartave, në nivel kostoje, aktualisht 1.5% (një vlerësim derisa të zgjidhet një ofrues pagesash). Ajo mbulon koston reale të pranimit të kartave, e cila ndryshon sipas vendit të lëshimit të kartës, dhe e mbajmë normën në përputhje me atë që na faturohet vërtet, pa asnjë marzh sipër. Në pasqyrën tuaj të pagesës e shihni këtë zbritje te shifrat tuaja. Shihni [tarifat](/fees) për pamjen e plotë, përfshirë pse norma ndryshon sipas vendit.
 
 ## Përpara se të merrni para: llogaria e pagesës
 

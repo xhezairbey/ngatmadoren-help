@@ -16,7 +16,7 @@ Nëse jeni tashmë i regjistruar, mund të hyni në llogari përpara se të jepn
 
 - Kontributi paguhet menjëherë dhe nuk rimbursohet. Ai i mbetet fushatës edhe nëse fushata nuk e arrin objektivin e saj.
 - Një kontribut nuk sjell shpërblim. Ai është një dhurim, jo një porosi.
-- Nga kontributi juaj platforma nuk mban asgjë. E vetmja gjë që zbritet është kostoja reale e përpunimit të pagesës, e cila sot është rreth 1.5% dhe mbahet nga ofruesi i pagesave, jo nga ne.
+- Nga kontributi juaj platforma nuk mban asgjë. E vetmja gjë që zbritet është një normë e fiksuar e përpunimit të kartave, në nivel kostoje, aktualisht 1.5% (një vlerësim derisa të zgjidhet një ofrues pagesash), e cila mbulon koston reale të pranimit të kartave; kjo kosto ndryshon sipas vendit të lëshimit të kartës tuaj. Shihni [tarifat](/fees) për më shumë.
 
 ## Nëse pagesa nuk shkon deri në fund
 
