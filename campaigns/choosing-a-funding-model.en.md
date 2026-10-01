@@ -1,31 +1,26 @@
-# Choosing a funding model
+# Your campaign's funding model
 
-When you create a campaign you choose how it will be funded. It is chosen once and cannot change after the campaign is created, so it is worth understanding before you start.
-
-## All-or-nothing
-
-Fully funded, or nobody pays.
-
-- Backers pledge during the campaign but are only charged if the minimum is reached by the deadline. That makes pledging easier, and usually bigger.
-- The minimum protects you: you never end up obligated to a project that failed to raise enough.
-- You can offer [rewards](/help/campaigns/offering-rewards).
-- The platform keeps a share of the funds raised. The figures are in [fees and payouts](/help/campaigns/fees-and-payouts).
-
-This model suits projects: a piece of equipment, an event, a publication. Something that either happens or does not.
+Every new campaign on NgatmaDorën is keep-what-you-raise. There is no model to choose when you create a campaign, but it is worth knowing what the model means for you and your backers before you start.
 
 ## Keep what you raise
 
-For causes: every contribution stays.
+Every contribution stays.
 
-- For direct help to people and communities: health, emergencies, relief.
-- Every contribution collects immediately and stays with the campaign, whatever the outcome.
-- NgatmaDorën keeps nothing. The only deduction is a flat, at-cost card-processing rate; see [fees](/fees).
-- There are no rewards.
+- A backer's card is charged as soon as they contribute, and the money counts toward your campaign straight away.
+- There is **no minimum**. Every contribution stays with the campaign, whatever the final total. Your goal shows backers how far along you are and how much is still missing; it is not a threshold you have to clear.
+- NgatmaDorën keeps nothing. The only deduction is a flat, at-cost card-processing rate; see [fees](/fees). Backers may add an optional tip for the platform, which is its only income.
+- There are **no rewards**. A contribution is a gift, not an order. Thank your backers with [updates](/help/campaigns/posting-updates) instead.
 
-This model suits causes where every euro helps at once, even if the full amount is never reached.
+What reaches you, and when, is explained in [fees and payouts](/help/campaigns/fees-and-payouts).
 
-## How to choose
+## What this means for your campaign
 
-Choose based on what your campaign actually is, not on what looks safer. An urgent cause set up as all-or-nothing can end with nothing. A project set up as keep-what-you-raise can end half funded and unfinished.
+This model suits causes where every euro helps at once: health, emergencies, relief, direct help to people and communities.
 
-Reviewers check the fit when they read your campaign.
+Because the money stays even if the goal is not reached, set the goal at what the campaign genuinely needs, and say in your story what you will do with the money if you raise less. Backers give more readily when they can see that every euro will be used, whatever the total.
+
+## All-or-nothing
+
+NgatmaDorën also has an all-or-nothing model, in which backers pledge and are charged only if a minimum is reached by the deadline. It is not offered for new campaigns at the moment, so the campaign wizard does not ask you to choose.
+
+A campaign's funding model is set when it is created and does not change afterwards.

@@ -1,31 +1,26 @@
-# Zgjedhja e modelit të financimit
+# Modeli i financimit të fushatës
 
-Kur krijoni një fushatë, zgjidhni si do të financohet. Zgjidhet një herë të vetme dhe nuk ndryshon më pas krijimit, prandaj vlen ta kuptoni përpara se të nisni.
-
-## Gjithçka ose asgjë
-
-Plotësisht e financuar, ose askush nuk paguan.
-
-- Mbështetësit premtojnë gjatë fushatës, por tarifohen vetëm nëse minimumi arrihet në afat. Kjo i bën premtimet më të lehta dhe zakonisht më të mëdha.
-- Minimumi ju mbron: nuk mbeteni kurrë të detyruar ndaj një projekti që nuk mblodhi mjaftueshëm.
-- Mund të ofroni [shpërblime](/help/campaigns/offering-rewards).
-- Platforma mban një pjesë të fondeve të mbledhura. Shifrat i gjeni te [tarifat dhe pagesat](/help/campaigns/fees-and-payouts).
-
-Ky model i përshtatet projekteve: një pajisje, një ngjarje, një botim. Diçka që ose realizohet, ose jo.
+Çdo fushatë e re në NgatmaDorën është "mbaj çka mbledh". Kur krijoni një fushatë nuk keni model për të zgjedhur, por vlen ta dini çfarë do të thotë ky model për ju dhe për mbështetësit tuaj përpara se të nisni.
 
 ## Mbaj çka mbledh
 
-Për kauza: çdo kontribut mbetet.
+Çdo kontribut mbetet.
 
-- Për ndihmë të drejtpërdrejtë ndaj njerëzve dhe komuniteteve: shëndet, urgjenca, mbështetje.
-- Çdo kontribut mblidhet menjëherë dhe mbetet te fushata, pavarësisht rezultatit.
-- NgatmaDorën nuk mban asgjë. E vetmja gjë që zbritet është një normë e fiksuar e përpunimit të kartave, në nivel kostoje; shihni [tarifat](/fees).
-- Nuk ka shpërblime.
+- Karta e mbështetësit tarifohet sapo ai kontribuon, dhe paratë numërohen menjëherë te fushata juaj.
+- **Nuk ka minimum.** Çdo kontribut mbetet te fushata, pavarësisht se sa arrin shuma në fund. Objektivi u tregon mbështetësve sa larg keni arritur dhe sa mungon ende; nuk është një prag që duhet ta kaloni.
+- NgatmaDorën nuk mban asgjë. E vetmja gjë që zbritet është një normë e fiksuar e përpunimit të kartave, në nivel kostoje; shihni [tarifat](/fees). Mbështetësit mund të shtojnë një bakshish opsional për platformën, që është e vetmja e ardhur e saj.
+- **Nuk ka shpërblime.** Një kontribut është dhuratë, jo porosi. Falënderojini mbështetësit me [përditësime](/help/campaigns/posting-updates).
 
-Ky model i përshtatet kauzave ku çdo euro ndihmon menjëherë, edhe nëse shuma e plotë nuk arrihet kurrë.
+Çfarë ju arrin dhe kur, shpjegohet te [tarifat dhe pagesat](/help/campaigns/fees-and-payouts).
 
-## Si të zgjidhni
+## Çfarë do të thotë kjo për fushatën tuaj
 
-Zgjidhni sipas asaj që fushata juaj është vërtet, jo sipas asaj që duket më e sigurt. Një kauzë urgjente e vendosur si "gjithçka ose asgjë" mund të mbetet pa asgjë. Një projekt i vendosur si "mbaj çka mbledh" mund të mbetet gjysmë i financuar dhe i pambaruar.
+Ky model u përshtatet kauzave ku çdo euro ndihmon menjëherë: shëndet, urgjenca, mbështetje, ndihmë e drejtpërdrejtë për njerëz dhe komunitete.
 
-Recensuesit e verifikojnë përshtatjen kur shqyrtojnë fushatën tuaj.
+Meqë paratë mbeten edhe nëse objektivi nuk arrihet, vendoseni objektivin në atë që i nevojitet vërtet fushatës, dhe tregoni në historinë tuaj çfarë do të bëni me paratë nëse mblidhni më pak. Mbështetësit japin më lehtë kur shohin që çdo euro do të përdoret, pavarësisht shumës përfundimtare.
+
+## Gjithçka ose asgjë
+
+NgatmaDorën ka edhe një model "gjithçka ose asgjë", ku mbështetësit premtojnë dhe tarifohen vetëm nëse minimumi arrihet në afat. Për momentin ai nuk ofrohet për fushata të reja, prandaj asistenti i krijimit të fushatës nuk ju kërkon të zgjidhni.
+
+Modeli i financimit të një fushate vendoset kur ajo krijohet dhe nuk ndryshon më pas.
