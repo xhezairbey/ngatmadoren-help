@@ -25,6 +25,6 @@ Dërgimi i dokumentit të identitetit për të marrë distinktivin e verifikuar.
 
 ## Skeda "Njoftimet"
 
-Zgjidhni për cilat lloje veprimtarie doni të njoftoheni dhe nëpër cilin kanal: me email, brenda aplikacionit, ose të dyja. Disa email-e thelbësore, si rezultati i një fushate ose kujtesa për të paguar një premtim, mbeten gjithmonë aktive, sepse pa to mund të humbisni një afat pagese.
+Zgjidhni për cilat lloje veprimtarie doni të njoftoheni dhe nëpër cilin kanal: me email, brenda aplikacionit, ose të dyja. Rezultati i fushatës mbetet gjithmonë aktiv me email, pavarësisht çfarë zgjidhni, sepse pa të mund të mos e kuptoni pse fushata juaj ka ngecur. Te një fushatë "gjithçka ose asgjë", e cila për momentin nuk ofrohet për fushata të reja, kujtesa për të paguar një premtim funksionon njësoj, sepse pa të mund të humbisni një afat pagese.
 
 Çdo formular ruhet veç e veç. Pasi shtypni "Ruaj", do të shihni një konfirmim të shkurtër pranë tij.

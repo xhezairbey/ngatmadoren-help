@@ -14,11 +14,11 @@ Nëse doni të largoheni, mund ta fshini vetë llogarinë tuaj. Nuk ju duhet të
 
 Fshihen përgjithmonë emri, fotoja dhe kopertina, biografia dhe lidhjet sociale, qyteti, si dhe çdo e dhënë identiteti që keni dërguar për verifikim.
 
-Të dhënat që lidhen me para nuk fshihen. Nëse keni premtuar, kontribuar ose mbledhur fonde, ato regjistrime mbeten të lidhura me një llogari anonime pa asnjë të dhënë personale, për aq kohë sa na e kërkon ligji për regjistrimet financiare. Kjo mbron edhe mbështetësit edhe nismëtarët. Në një llogari të mbyllur nuk mund të ndodhë asnjë veprimtari e re.
+Të dhënat që lidhen me para nuk fshihen. Nëse keni kontribuar, keni mbledhur fonde ose, te një fushatë "gjithçka ose asgjë", keni premtuar, ato regjistrime mbeten të lidhura me një llogari anonime pa asnjë të dhënë personale, për aq kohë sa na e kërkon ligji për regjistrimet financiare. Kjo mbron edhe mbështetësit edhe nismëtarët. Në një llogari të mbyllur nuk mund të ndodhë asnjë veprimtari e re.
 
 ## Nëse fshirja bllokohet
 
-Nëse shihni një mesazh që thotë se keni ende para në proces, kjo do të thotë se keni një fushatë aktive, një premtim të papaguar ose një pagesë që pret. Mbylleni atë së pari, ose na kontaktoni, dhe pastaj provoni sërish.
+Nëse shihni një mesazh që thotë se keni ende para në proces, kjo do të thotë se keni një fushatë aktive ose një pagesë që pret. Te një fushatë "gjithçka ose asgjë", e cila për momentin nuk ofrohet për fushata të reja, kjo mund të nënkuptojë edhe një premtim të papaguar. Mbylleni atë së pari, ose na kontaktoni, dhe pastaj provoni sërish.
 
 ## Nëse nuk mund të hyni fare
 

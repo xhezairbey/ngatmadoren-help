@@ -14,11 +14,11 @@ If you want to leave, you can delete your account yourself. You do not need to w
 
 Erased for good: your name, your photo and cover, your bio and social links, your city, and any identity details you submitted for verification.
 
-Records tied to money are not deleted. If you pledged, contributed or raised funds, those records stay attached to an anonymized account holding no personal data, for as long as the law requires us to keep financial records. This protects backers and initiators alike. No new activity is possible on a closed account.
+Records tied to money are not deleted. If you contributed, raised funds or, on an all-or-nothing campaign, pledged, those records stay attached to an anonymized account holding no personal data, for as long as the law requires us to keep financial records. This protects backers and initiators alike. No new activity is possible on a closed account.
 
 ## If deletion is blocked
 
-If you see a message saying you still have money in flight, it means you have a live campaign, an unpaid pledge or a payout waiting. Settle it first, or contact us, then try again.
+If you see a message saying you still have money in flight, it means you have a live campaign or a payout waiting. On an all-or-nothing campaign, which is not offered for new campaigns at the moment, it can also mean an unpaid pledge. Settle it first, or contact us, then try again.
 
 ## If you cannot sign in at all
 

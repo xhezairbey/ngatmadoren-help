@@ -13,7 +13,7 @@ Njoftimet brenda platformës i gjeni te faqja e njoftimeve, nga menyja lart djat
 3. Për çdo lloj aktiviteti zgjidhni si doni ta merrni: me email, brenda platformës, ose asnjërën.
 4. Ruani.
 
-Llojet ndahen sipas asaj që ndodh vërtet: një përditësim te një fushatë që mbështetni, një mbështetje e re te fushata juaj, konfirmimi i një premtimi që bëni, një koment te fushata juaj, rezultati i fushatës, ndryshimet e kërkuara, kujtesa për të paguar një premtim, dikush që qëndron pas jush, dikush që ju përmend, dhe ftesa për t'u kredituar te një ekip.
+Llojet ndahen sipas asaj që ndodh vërtet: një përditësim te një fushatë që mbështetni, një mbështetje e re te fushata juaj, një koment te fushata juaj, rezultati i fushatës, ndryshimet e kërkuara, dikush që qëndron pas jush, dikush që ju përmend, ftesa për t'u kredituar te një ekip dhe, te një fushatë "gjithçka ose asgjë", e cila për momentin nuk ofrohet për fushata të reja, konfirmimi i një premtimi që bëni ose kujtesa për ta paguar.
 
 ## Emailet që nuk çaktivizohen
 
@@ -21,7 +21,7 @@ Disa emaile janë gjithmonë të ndezura:
 
 - Rezultati i fushatës suaj.
 - Ndryshimet e kërkuara nga stafi te fushata juaj.
-- Kujtesat për të paguar një premtim.
+- Te një fushatë "gjithçka ose asgjë", e cila për momentin nuk ofrohet për fushata të reja, kujtesat për të paguar një premtim.
 
 Prej tyre varet rrjedha e parave. Nëse do të mund t'i fikni, do të humbisnit afatin e pagesës pa e ditur kurrë, ose fushata juaj do të mbetej në pritje pa e kuptuar pse.
 

@@ -13,7 +13,7 @@ In-app notifications live on the notifications page, from the menu at the top ri
 3. For each kind of activity, choose how you want it: by email, in-app, or neither.
 4. Save.
 
-The kinds are split by what actually happens: an update on a campaign you back, a new backing on your campaign, confirmation of a pledge you make, a comment on your campaign, the campaign's outcome, changes requested, a reminder to pay a pledge, someone standing behind you, someone mentioning you, and an invitation to be credited on a team.
+The kinds are split by what actually happens: an update on a campaign you back, a new backing on your campaign, a comment on your campaign, the campaign's outcome, changes requested, someone standing behind you, someone mentioning you, an invitation to be credited on a team and, on an all-or-nothing campaign, which is not offered for new campaigns at the moment, confirmation of a pledge you make or a reminder to pay one.
 
 ## The emails that cannot be switched off
 
@@ -21,7 +21,7 @@ A few emails are always on:
 
 - Your campaign's outcome.
 - Changes staff have requested on your campaign.
-- Reminders to pay a pledge.
+- On an all-or-nothing campaign, which is not offered for new campaigns at the moment, reminders to pay a pledge.
 
 The money flow depends on them. If you could switch them off, you would miss a payment deadline without ever knowing, or your campaign would sit waiting and you would not understand why.
 

@@ -25,6 +25,6 @@ Submitting your identity document to get the verified badge. See [Verifying your
 
 ## The "Notifications" tab
 
-Choose which kinds of activity you want to hear about and through which channel: email, in the app, or both. A few essential emails, such as a campaign outcome or a reminder to pay a pledge, always stay on, because without them you could miss a payment deadline.
+Choose which kinds of activity you want to hear about and through which channel: email, in the app, or both. A campaign outcome stays on by email no matter what you choose, because without it you could miss why your campaign stalled. On an all-or-nothing campaign, which is not offered for new campaigns at the moment, a reminder to pay a pledge works the same way, because without it you could miss a payment deadline.
 
 Each form saves on its own. After you press "Save", a short confirmation appears next to it.
