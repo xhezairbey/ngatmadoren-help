@@ -6,14 +6,14 @@ Pasi hyni në llogari, gjithçka që ju përket gjendet në katër vende. Ky ës
 
 Këtu jetojnë gjërat që keni nisur ju. Për çdo fushatë tuajën shihni gjendjen e saj, shumën e objektivit dhe, kur ka ardhur momenti, edhe pagesën që ju takon. Nga e njëjta rresht hapni:
 
-- **Shiko mbështetësit**, raporti që tregon kush pagoi sa dhe cilat shpërblime keni për të përmbushur.
+- **Shiko mbështetësit**, raporti që tregon [kush ju mbështeti](/help/campaigns/seeing-who-backed-you) dhe me sa.
 - **Menaxho përditësimet**, ku shkruani lajmet për mbështetësit tuaj.
 - **Redakto** ose **Fshi draftin**, sa kohë që fushata është ende draft.
 - **Propozo ndryshime**, nëse fushata është publike dhe ju duhet një korrigjim.
 
 ## Mbështetjet e mia
 
-Këtu jetojnë gjërat që keni mbështetur ju: premtimet dhe kontributet, në një listë të vetme. Nëse një fushatë ka pasur sukses dhe premtimi juaj pret pagesën, butoni "Paguaj tani" është pikërisht këtu.
+Këtu jetojnë gjërat që keni mbështetur ju: kontributet, dhe çdo premtim për fushata "gjithçka ose asgjë", në një listë të vetme, secili me gjendjen e vet. Nëse stafi rimburson një kontribut, ai shfaqet këtu si "E rimbursuar". Nëse një fushatë "gjithçka ose asgjë" ka pasur sukses dhe premtimi juaj pret pagesën, butoni "Paguaj tani" është pikërisht këtu.
 
 ## Njoftimet
 

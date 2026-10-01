@@ -6,14 +6,14 @@ Once you are signed in, everything that belongs to you lives in four places. Thi
 
 This is where the things you started live. For each of your campaigns you see its status, the goal amount and, when the time comes, the payout owed to you. From the same row you can open:
 
-- **View backers**, the report showing who paid what and which rewards you have to fulfil.
+- **View backers**, the report showing [who backed you](/help/campaigns/seeing-who-backed-you) and how much.
 - **Manage updates**, where you write the news for your backers.
 - **Edit** or **Delete draft**, while the campaign is still a draft.
 - **Propose changes**, if the campaign is public and you need a correction.
 
 ## My backing
 
-This is where the things you supported live: your pledges and your contributions, in one list. If a campaign succeeded and your pledge is waiting to be paid, the "Pay now" button is right here.
+This is where the things you supported live: your contributions, and any pledges to all-or-nothing campaigns, in one list, each with its status. If staff refund a contribution, it shows here as "Refunded". If an all-or-nothing campaign succeeded and your pledge is waiting to be paid, the "Pay now" button is right here.
 
 ## Notifications
 
