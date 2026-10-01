@@ -1,10 +1,8 @@
 # Offering rewards
 
-Rewards are optional. A simple, honest thank-you is enough, and plenty of successful campaigns offer nothing at all.
+This applies only to all-or-nothing campaigns, which are not offered for new campaigns at the moment. Every new campaign is keep-what-you-raise and collects direct contributions with no rewards, so the "Rewards" step has nothing for you to set. See [your campaign's funding model](/help/campaigns/choosing-a-funding-model).
 
-## When you can offer them
-
-Only on all-or-nothing campaigns. Keep-what-you-raise campaigns collect direct contributions with no rewards. See [funding models](/help/campaigns/choosing-a-funding-model).
+If your campaign uses all-or-nothing, rewards are optional. A simple, honest thank-you is enough, and plenty of successful campaigns offer nothing at all.
 
 ## Building a good ladder
 

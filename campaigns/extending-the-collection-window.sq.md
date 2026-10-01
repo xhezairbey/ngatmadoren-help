@@ -1,5 +1,7 @@
 # Zgjatja e dritares së mbledhjes
 
+Kjo vlen vetëm për fushatat "gjithçka ose asgjë", të cilat për momentin nuk ofrohen për fushata të reja. Një fushatë "mbaj çka mbledh" nuk ka dritare mbledhjeje: mbështetësit paguajnë kur japin. Shihni [tarifat dhe pagesat](/help/campaigns/fees-and-payouts).
+
 Kur një fushatë "gjithçka ose asgjë" e arrin minimumin, hapet dritarja e mbledhjes: koha gjatë së cilës mbështetësve u kërkohet ta kryejnë pagesën. Nëse në fund të saj disa premtime mbeten pa paguar, mund ta zgjasni një herë.
 
 ## Kur ka kuptim
@@ -10,8 +12,8 @@ Nuk ndihmon kur premtimet janë braktisur. Zgjatja nuk krijon para të reja dhe 
 
 ## Si bëhet
 
-1. Hapni fushatën tuaj nga paneli juaj.
-2. Zgjidhni "Zgjat dritaren e mbledhjes".
+1. Hapni panelin tuaj dhe gjeni fushatën.
+2. Zgjidhni "Zgjat mbledhjen", që tregon sa ditë shton.
 
 Mund ta bëni vetëm një herë. Kur ta përdorni, nuk ka një të dytë, prandaj mos e përdorni në ditën e parë.
 
@@ -26,4 +28,4 @@ Platforma dërgon kujtues automatikë përpara se dritarja të mbyllet. Ata jan�
 
 ## Kur mbyllet
 
-Premtimet e papaguara nuk mblidhen. Ju merrni atë që u mblodh, pa pjesën e platformës. Shihni [tarifat dhe pagesat](/help/campaigns/fees-and-payouts).
+Premtimet e papaguara nuk mblidhen. Ju merrni atë që u mblodh, pa pjesën e platformës, pas mbajtjes së pagesës që përshkruhet te [tarifat dhe pagesat](/help/campaigns/fees-and-payouts).

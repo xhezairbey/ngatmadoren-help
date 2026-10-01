@@ -4,7 +4,7 @@ Before your campaign passes review you can edit it freely. Once it is live, the 
 
 ## Why it locks
 
-People pledge based on what they read. If the story, the budget or the rewards could change after money has been pledged, the pledge would mean nothing. The lock protects your backers, and with them, you.
+People give based on what they read. If the story or the budget could change after they have given, their contribution would mean nothing. The lock protects your backers, and with them, you.
 
 ## Proposing changes
 
@@ -18,10 +18,10 @@ If you have not changed anything, there is nothing to submit.
 
 ## What never changes
 
-- **The funding goal.** Nor the minimum.
+- **The funding goal.**
 - **The deadline.**
 - **The funding model.**
-- **A reward tier's price and limit.** The tier's wording can be fixed, the figures cannot.
+- **On an all-or-nothing campaign, the minimum and each reward tier's price and limit.** A tier's wording can be fixed, the figures cannot.
 
 These are the terms on which people decided to give money. If they genuinely no longer work, write to us from the contact form and we will look at the case with you.
 

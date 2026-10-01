@@ -4,7 +4,7 @@ Përpara se fushata të kalojë shqyrtimin, e ndryshoni lirisht. Pasi bëhet e g
 
 ## Pse bllokohet
 
-Njerëzit premtojnë duke u bazuar në atë që lexojnë. Nëse historia, buxheti ose shpërblimet do të mund të ndryshoheshin pasi paratë janë premtuar, premtimi nuk do të kishte kuptim. Bllokimi mbron mbështetësit tuaj, dhe bashkë me ta edhe ju.
+Njerëzit japin duke u bazuar në atë që lexojnë. Nëse historia ose buxheti do të mund të ndryshoheshin pasi ata kanë dhënë, kontributi i tyre nuk do të kishte kuptim. Bllokimi mbron mbështetësit tuaj, dhe bashkë me ta edhe ju.
 
 ## Si të propozoni ndryshime
 
@@ -18,10 +18,10 @@ Nëse nuk keni ndryshuar asgjë, nuk ka çfarë të dërgohet.
 
 ## Çfarë nuk ndryshon kurrë
 
-- **Shuma e synuar.** As minimumi.
+- **Shuma e synuar.**
 - **Afati.**
 - **Modeli i financimit.**
-- **Çmimi dhe kufiri i një niveli shpërblimi.** Fjalët e nivelit mund të rregullohen, shifrat jo.
+- **Te një fushatë "gjithçka ose asgjë", minimumi dhe çmimi e kufiri i çdo niveli shpërblimi.** Fjalët e një niveli mund të rregullohen, shifrat jo.
 
 Këto janë kushtet mbi të cilat njerëzit vendosën të japin para. Nëse vërtet nuk funksionojnë më, na shkruani nga formulari i kontaktit dhe do ta shohim rastin bashkë.
 

@@ -1,10 +1,8 @@
 # Ofrimi i shpërblimeve
 
-Shpërblimet janë opsionale. Një falënderim i thjeshtë dhe i ndershëm mjafton, dhe shumë fushata të suksesshme nuk ofrojnë asgjë.
+Kjo vlen vetëm për fushatat "gjithçka ose asgjë", të cilat për momentin nuk ofrohen për fushata të reja. Çdo fushatë e re është "mbaj çka mbledh" dhe mbledh kontribute të drejtpërdrejta pa shpërblime, prandaj te hapi "Shpërblimet" nuk keni asgjë për të vendosur. Shihni [modelin e financimit të fushatës](/help/campaigns/choosing-a-funding-model).
 
-## Kur mund t'i ofroni
-
-Vetëm te fushatat "gjithçka ose asgjë". Fushatat "mbaj çka mbledh" mbledhin kontribute të drejtpërdrejta pa shpërblime. Shihni [modelet e financimit](/help/campaigns/choosing-a-funding-model).
+Nëse fushata juaj është "gjithçka ose asgjë", shpërblimet janë opsionale. Një falënderim i thjeshtë dhe i ndershëm mjafton, dhe shumë fushata të suksesshme nuk ofrojnë asgjë.
 
 ## Si ndërtohet një shkallë e mirë
 
