@@ -35,4 +35,6 @@ Deri sa të bëhet pagesa juaj, stafi mund ta vërë fushatën tuaj nën hetim, 
 
 Nëse stafi gjen një problem të vërtetë, kontributet e prekura rimbursohen plotësisht, përfshirë çdo bakshish që ka shtuar mbështetësi. Nëse problemi është vetë fushata, rimbursohet çdo kontribut dhe fushata mbyllet pa pagesë.
 
+Rimbursimet vlejnë vetëm për kontributet te fushatat "mbaj çka mbledh"; një premtim te një fushatë "gjithçka ose asgjë" nuk ka rrugë rimbursimi.
+
 Kjo është e vetmja rrugë që paratë lëvizin mbrapsht. Nuk ka rimbursim me kërkesë, mbështetësi nuk mund ta kthejë vetë kontributin, nuk ka rimbursim të pjesshëm, dhe pasi të jeni paguar, nuk ka më asnjë rimbursim.

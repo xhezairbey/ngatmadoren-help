@@ -35,4 +35,6 @@ Until your payout is made, staff can put your campaign under investigation, for 
 
 If staff find a real problem, the affected contributions are refunded in full, including any tip the backer added. If the campaign itself is the problem, every contribution is refunded and the campaign ends without a payout.
 
+Refunds apply only to contributions on keep-what-you-raise campaigns; a pledge on an all-or-nothing campaign has no refund path.
+
 That is the only way money moves backwards. There is no refund on request, backers cannot refund themselves, there are no partial refunds, and once you have been paid, there is no refund at all.
