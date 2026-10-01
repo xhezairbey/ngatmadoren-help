@@ -14,7 +14,7 @@ If you already have an account, you can sign in before giving. Your contribution
 
 ## What to know before you give
 
-- A contribution is paid immediately and is not refundable. It stays with the campaign even if the campaign does not reach its goal.
+- A contribution is paid immediately and you cannot withdraw it or ask for a refund. It stays with the campaign even if the campaign does not reach its goal. The only exception is a refund that staff decide after investigating a campaign, before the initiator is paid; see [fees and payouts](/help/campaigns/fees-and-payouts).
 - A contribution carries no reward. It is a donation, not an order.
 - The platform keeps nothing from your contribution. The only deduction is a flat, at-cost card-processing rate, currently 1.5% (an estimate until a payment provider is chosen), which covers the real cost of accepting cards; that cost varies by your card's issuing country. See [fees](/fees) for how it works.
 

@@ -14,7 +14,7 @@ Nëse jeni tashmë i regjistruar, mund të hyni në llogari përpara se të jepn
 
 ## Çfarë duhet të dini përpara se të jepni
 
-- Kontributi paguhet menjëherë dhe nuk rimbursohet. Ai i mbetet fushatës edhe nëse fushata nuk e arrin objektivin e saj.
+- Kontributi paguhet menjëherë dhe nuk mund ta tërhiqni dhe as të kërkoni rimbursim. Ai i mbetet fushatës edhe nëse fushata nuk e arrin objektivin e saj. I vetmi përjashtim është një rimbursim që vendos stafi pasi heton një fushatë, para se nismëtari të paguhet; shihni [tarifat dhe pagesat](/help/campaigns/fees-and-payouts).
 - Një kontribut nuk sjell shpërblim. Ai është një dhurim, jo një porosi.
 - Nga kontributi juaj platforma nuk mban asgjë. E vetmja gjë që zbritet është një normë e fiksuar e përpunimit të kartave, në nivel kostoje, aktualisht 1.5% (një vlerësim derisa të zgjidhet një ofrues pagesash), e cila mbulon koston reale të pranimit të kartave; kjo kosto ndryshon sipas vendit të lëshimit të kartës tuaj. Shihni [tarifat](/fees) për më shumë.
 
