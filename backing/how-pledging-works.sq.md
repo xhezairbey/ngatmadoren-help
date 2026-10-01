@@ -1,5 +1,7 @@
 # Si funksionon një premtim
 
+Premtimi vlen vetëm për fushatat "gjithçka ose asgjë", të cilat për momentin nuk ofrohen për fushata të reja. Çdo fushatë e re është "mbaj çka mbledh": ju jepni drejtpërdrejt dhe paguani aty për aty, siç shpjegohet te [kontributi si vizitor](/help/backing/contributing-as-a-guest). Vazhdoni të lexoni nëse fushata që mbështetni është "gjithçka ose asgjë".
+
 Kur mbështetni një fushatë "gjithçka ose asgjë", ju jepni një premtim: një zotim për të paguar më vonë. Në atë moment asnjë kartë nuk tarifohet. Kjo faqe ju tregon, hap pas hapi, çfarë ndodh më pas.
 
 ## Hapat, nga fillimi në fund
@@ -26,7 +28,3 @@ Përderisa fushata është ende e hapur dhe premtimi juaj nuk ka kaluar ende në
 ## Sa mban platforma
 
 Nga fondet e mbledhura të një fushate "gjithçka ose asgjë", platforma mban 5%, dhe vetëm nëse fushata ka sukses. Kjo nuk shtohet mbi premtimin tuaj: ju paguani saktësisht shumën që premtuat.
-
-## Po fushatat që paguhen menjëherë?
-
-Disa fushata nuk punojnë fare me premtime. Ato i mbajnë të gjitha të hollat e mbledhura dhe paguhen në çast. Lexoni [Kontributi si vizitor](/help/backing/contributing-as-a-guest).

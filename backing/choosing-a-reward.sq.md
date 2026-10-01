@@ -1,5 +1,7 @@
 # Zgjedhja e një shpërblimi
 
+Shpërblimet ekzistojnë vetëm te fushatat "gjithçka ose asgjë", të cilat për momentin nuk ofrohen për fushata të reja. Një fushatë e re është "mbaj çka mbledh" dhe nuk ka shpërblime: një kontribut është dhuratë. Shihni [modelet e financimit](/help/campaigns/choosing-a-funding-model).
+
 Disa fushata "gjithçka ose asgjë" ofrojnë shpërblime: një falënderim konkret për shumën që premtoni. Shpërblimet janë opsionale. Shumë fushata të mira nuk kanë fare, dhe një premtim pa shpërblim vlen po aq.
 
 ## Si funksionojnë
@@ -10,7 +12,6 @@ Nëse premtoni më shumë se çmimi i një niveli, ju takon ai nivel. Nuk ju duh
 
 ## Çfarë duhet të dini
 
-- Shpërblimet ekzistojnë vetëm te fushatat "gjithçka ose asgjë". Fushatat "mbaj çka mbledh" mbledhin kontribute të drejtpërdrejta, pa shpërblime. Shihni [dy modelet e financimit](/help/campaigns/choosing-a-funding-model).
 - Shpërblimi nuk është një porosi. Ju po mbështetni një projekt, dhe shpërblimi është falënderimi i nismëtarit.
 - Data e dorëzimit që shihni është një vlerësim i nismëtarit, jo një premtim i platformës.
 - Nëse fushata nuk e arrin minimumin, askush nuk tarifohet dhe asnjë shpërblim nuk lind.

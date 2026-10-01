@@ -1,5 +1,7 @@
 # How pledging works
 
+Pledging applies only to all-or-nothing campaigns, which are not offered for new campaigns at the moment. Every new campaign is keep-what-you-raise: you give directly and pay on the spot, as described in [contributing as a guest](/help/backing/contributing-as-a-guest). Read on if the campaign you are backing uses all-or-nothing.
+
 When you back an all-or-nothing campaign you make a pledge: a promise to pay later. No card is charged at that moment. This page walks you through what happens next.
 
 ## The steps, start to finish
@@ -26,7 +28,3 @@ While the campaign is still open and your pledge has not moved into collection, 
 ## What the platform keeps
 
 On an all-or-nothing campaign the platform keeps 5% of the funds collected, and only if the campaign succeeds. Nothing is added on top of your pledge: you pay exactly the amount you promised.
-
-## What about campaigns that charge right away?
-
-Some campaigns do not use pledges at all. They keep every euro raised and are paid instantly. Read [Contributing as a guest](/help/backing/contributing-as-a-guest).

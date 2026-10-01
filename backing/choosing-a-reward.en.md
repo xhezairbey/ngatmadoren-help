@@ -1,5 +1,7 @@
 # Choosing a reward
 
+Rewards exist only on all-or-nothing campaigns, which are not offered for new campaigns at the moment. A new campaign is keep-what-you-raise and has no rewards: a contribution is a gift. See [funding models](/help/campaigns/choosing-a-funding-model).
+
 Some all-or-nothing campaigns offer rewards: a concrete thank-you for the amount you pledge. Rewards are optional. Plenty of good campaigns have none at all, and a pledge without a reward counts just as much.
 
 ## How they work
@@ -10,7 +12,6 @@ If you pledge more than a tier's price, that tier is yours. You do not have to f
 
 ## What to know
 
-- Rewards exist only on all-or-nothing campaigns. Keep-what-you-raise campaigns collect direct contributions with no rewards. See [the two funding models](/help/campaigns/choosing-a-funding-model).
 - A reward is not an order. You are backing a project, and the reward is the initiator's thank-you.
 - The delivery date you see is the initiator's estimate, not a promise from the platform.
 - If the campaign does not reach its minimum, nobody is charged and no reward comes into being.

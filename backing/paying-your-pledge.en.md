@@ -1,16 +1,18 @@
 # Paying your pledge
 
+This applies only to all-or-nothing campaigns, which are not offered for new campaigns at the moment. If you gave to a keep-what-you-raise campaign, you paid when you contributed and there is nothing more to pay.
+
 On all-or-nothing campaigns you do not pay when you pledge. You pay only if the campaign reaches its minimum by the deadline. This page covers what happens then.
 
 ## When payment opens
 
 At the deadline, the pledges are added up and compared with the minimum. If the minimum is reached, the campaign succeeds and the collection window opens. Only then are you asked to pay.
 
-You will get an email about the campaign carrying a "Pay now" link. The same link sits on your "My backings" page.
+You will get an email about the campaign carrying a "Pay now" link. The same link sits on your "My backing" page.
 
 ## How to pay
 
-1. Open the "Pay now" link from the email or from "My backings".
+1. Open the "Pay now" link from the email or from "My backing".
 2. You are taken to our payment provider. The payment happens there, not with us.
 3. After paying you are returned to a page that tells you the result.
 

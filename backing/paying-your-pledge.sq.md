@@ -1,5 +1,7 @@
 # Pagesa e premtimit tuaj
 
+Kjo vlen vetëm për fushatat "gjithçka ose asgjë", të cilat për momentin nuk ofrohen për fushata të reja. Nëse keni dhënë për një fushatë "mbaj çka mbledh", keni paguar kur kontribuuat dhe nuk keni më asgjë për të paguar.
+
 Te fushatat "gjithçka ose asgjë" ju nuk paguani kur premtoni. Paguani vetëm nëse fushata e arrin minimumin e saj në afat. Kjo faqe tregon se çfarë ndodh atëherë.
 
 ## Kur hapet pagesa
