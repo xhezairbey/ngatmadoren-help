@@ -10,7 +10,7 @@ Fushatat "mbaj çka mbledh" janë kauza ku çdo euro ndihmon menjëherë. Te kë
 4. Nëse dëshironi, shtoni një bakshish të vogël vullnetar për platformën. Kjo është plotësisht opsionale dhe mund ta lini në zero.
 5. Shtypni "Kontribuo tani". Do të çoheni te ofruesi ynë i pagesave për ta përfunduar pagesën, dhe pastaj do të ktheheni te një faqe që ju tregon rezultatin.
 
-Nëse jeni tashmë i regjistruar, mund të hyni në llogari përpara se të jepni. Atëherë kontributi shfaqet edhe te faqja juaj "Mbështetjet e mia".
+Nëse jeni tashmë i regjistruar, mund të hyni në llogari përpara se të jepni. Atëherë kontributi shfaqet edhe te faqja juaj "Mbështetjet e mia", njoftoheni kur nismëtari publikon një përditësim dhe mund të merrni pjesë në bisedën nën fushatë. Një kontribut si vizitor nuk i sjell këto, sepse nuk ka llogari ku të lidhet.
 
 ## Çfarë duhet të dini përpara se të jepni
 

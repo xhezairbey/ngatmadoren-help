@@ -4,7 +4,7 @@ Nën çdo fushatë ka një hapësirë për komente e pyetje. Ajo është menduar
 
 ## Kush mund të komentojë
 
-Mund të shkruajnë nismëtari i fushatës, bashkëpunëtorët e listuar, ekipi ynë dhe mbështetësit me një premtim aktiv te ajo fushatë. Nëse nuk keni hyrë ende, do të shihni një ftesë për të hyrë. Nëse keni hyrë por nuk plotësoni asnjë nga kushtet e mësipërme, do të shihni një shënim që e shpjegon këtë, dhe komentet e të tjerëve i lexoni normalisht.
+Mund të shkruajnë nismëtari i fushatës, bashkëpunëtorët e listuar, ekipi ynë dhe mbështetësit e fushatës. Mbështetës këtu është kushdo që ka kontribuar te fushata pasi kishte hyrë në llogari, ose që ka një premtim aktiv te ajo. Një kontribut i rimbursuar nuk llogaritet më, dhe një kontribut i dhënë si vizitor, pa llogari, nuk ju jep të drejtë të komentoni. Nëse nuk keni hyrë ende, do të shihni një ftesë për të hyrë. Nëse keni hyrë por nuk plotësoni asnjë nga kushtet e mësipërme, do të shihni një shënim që e shpjegon këtë, dhe komentet e të tjerëve i lexoni normalisht.
 
 ## Si të komentoni
 

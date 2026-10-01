@@ -10,7 +10,7 @@ Keep-what-you-raise campaigns are causes where every euro helps immediately. On 
 4. If you want to, add a small voluntary tip for the platform. This is entirely optional and you can leave it at zero.
 5. Press "Contribute now". You will be taken to our payment provider to complete the payment, then returned to a page that tells you how it went.
 
-If you already have an account, you can sign in before giving. Your contribution then also appears on your "My backing" page.
+If you already have an account, you can sign in before giving. Your contribution then also appears on your "My backing" page, you are notified when the initiator posts an update, and you can join the conversation under the campaign. A guest contribution brings none of this, because there is no account to attach it to.
 
 ## What to know before you give
 

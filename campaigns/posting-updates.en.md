@@ -9,7 +9,7 @@ An update is how you tell your backers where the work has got to. Silence is the
 3. Write a short title and the body. Markdown is supported, so you can use headings, lists and links.
 4. Press "Post update".
 
-The update appears on the public campaign page straight away and your backers are notified.
+The update appears on the public campaign page straight away and your backers are notified: everyone who contributed while signed in, and everyone with a pledge. Someone who gave as a guest has no account to notify, but can still read the update on the campaign page.
 
 ## When you can post
 

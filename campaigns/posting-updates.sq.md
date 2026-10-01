@@ -9,7 +9,7 @@ Një përditësim është mënyra si u tregoni mbështetësve tuaj se ku ka arri
 3. Shkruani një titull të shkurtër dhe përmbajtjen. Markdown mbështetet, prandaj mund të përdorni tituj, lista dhe lidhje.
 4. Shtypni "Publikoje përditësimin".
 
-Përditësimi shfaqet menjëherë te faqja publike e fushatës dhe mbështetësit tuaj njoftohen.
+Përditësimi shfaqet menjëherë te faqja publike e fushatës dhe mbështetësit tuaj njoftohen: kushdo që ka kontribuar pasi kishte hyrë në llogari, dhe kushdo që ka një premtim. Kush ka dhënë si vizitor nuk ka llogari ku të njoftohet, por përditësimin e lexon te faqja e fushatës.
 
 ## Kur mund të publikoni
 

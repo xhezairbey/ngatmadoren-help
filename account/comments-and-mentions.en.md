@@ -4,7 +4,7 @@ Every campaign has a space underneath for comments and questions. It is meant as
 
 ## Who can comment
 
-The campaign initiator, the listed collaborators, our team, and backers with a standing pledge on that campaign can all write. If you are not signed in, you will see an invitation to sign in. If you are signed in but none of the above applies to you, you will see a note explaining that, and you can still read everyone else's comments as normal.
+The campaign initiator, the listed collaborators, our team, and the campaign's backers can all write. A backer here means someone who contributed to the campaign while signed in, or who has a standing pledge on it. A contribution that was refunded no longer counts, and a contribution made as a guest, without an account, does not let you comment. If you are not signed in, you will see an invitation to sign in. If you are signed in but none of the above applies to you, you will see a note explaining that, and you can still read everyone else's comments as normal.
 
 ## How to comment
 
