@@ -4,13 +4,13 @@ Creating a campaign happens in a five-step wizard. You can stop at any point: yo
 
 ## Before you start
 
-You need an individual account with a confirmed email address. Business accounts can back campaigns, but they cannot create campaigns. If this is your first time, read the [campaign guide](/campaigns/guide): it shows you how to build a story, a budget and a reward ladder that actually work.
+You need an individual account with a confirmed email address. Business accounts can back campaigns, but they cannot create campaigns. If this is your first time, read the [campaign guide](/campaigns/guide): it shows you how to build a story and a budget that actually work.
 
 ## The five steps
 
 1. **Basics.** The campaign name, the category and a short description. Say what it is, plainly.
-2. **Funding goal.** This is also where you choose your funding model. All-or-nothing has a minimum and a deadline: if the minimum is not reached, nobody is charged. Keep-what-you-raise has no minimum and no rewards: money is paid immediately and stays with the cause. The model is chosen once and cannot be changed later, so think it through.
-3. **Rewards.** Optional, and only on all-or-nothing campaigns. Give each tier a price, a description, a delivery estimate and, when something is genuinely limited, a quantity cap.
+2. **Funding goal.** The goal, the deadline and, if you want, a budget broken into lines. Every new campaign is keep-what-you-raise: there is no minimum, and every contribution is paid immediately and stays with the cause. See [your campaign's funding model](/help/campaigns/choosing-a-funding-model).
+3. **Rewards.** Keep-what-you-raise campaigns have no rewards, so there is nothing to fill in here: a contribution is a gift.
 4. **Your pitch.** The full story, the main photo, the gallery and, if you have one, a YouTube or Vimeo video.
 5. **Review & submit.** One last look over everything, including whether the campaign is [listed or unlisted](/help/campaigns/listed-or-unlisted), then you send it for review.
 

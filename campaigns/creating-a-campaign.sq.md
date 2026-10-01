@@ -4,13 +4,13 @@ Krijimi i një fushate bëhet me një asistent me pesë hapa. Mund ta ndaloni n�
 
 ## Përpara se të filloni
 
-Ju duhet një llogari individuale me email të konfirmuar. Llogaritë e bizneseve mund të mbështesin fushata, por nuk mund të krijojnë fushata. Nëse është hera juaj e parë, lexoni [udhëzuesin e fushatave](/campaigns/guide): ai ju tregon si të ndërtoni një histori, një buxhet dhe një shkallë shpërblimesh që funksionojnë.
+Ju duhet një llogari individuale me email të konfirmuar. Llogaritë e bizneseve mund të mbështesin fushata, por nuk mund të krijojnë fushata. Nëse është hera juaj e parë, lexoni [udhëzuesin e fushatave](/campaigns/guide): ai ju tregon si të ndërtoni një histori dhe një buxhet që funksionojnë.
 
 ## Pesë hapat
 
 1. **Bazat.** Emri i fushatës, kategoria dhe një përshkrim i shkurtër. Thojeni thjesht se çfarë është.
-2. **Objektivi i financimit.** Këtu zgjidhni edhe modelin e financimit. "Gjithçka-ose-asgjë" ka një minimum dhe një afat: nëse minimumi nuk arrihet, askush nuk tarifohet. "Mbaj çka mbledh" nuk ka minimum dhe as shpërblime: paratë paguhen menjëherë dhe i mbeten kauzës. Modeli zgjidhet një herë dhe nuk mund të ndryshohet më vonë, prandaj mendojeni mirë.
-3. **Shpërblimet.** Opsionale, dhe vetëm te fushatat "gjithçka-ose-asgjë". Vendosni një çmim, një përshkrim, një afat dorëzimi dhe, nëse diçka është vërtet e limituar, një kufi sasie.
+2. **Objektivi i financimit.** Objektivi, afati dhe, nëse doni, një buxhet i ndarë në rreshta. Çdo fushatë e re është "mbaj çka mbledh": nuk ka minimum, dhe çdo kontribut paguhet menjëherë dhe i mbetet kauzës. Shihni [modelin e financimit të fushatës](/help/campaigns/choosing-a-funding-model).
+3. **Shpërblimet.** Fushatat "mbaj çka mbledh" nuk kanë shpërblime, prandaj këtu nuk keni asgjë për të plotësuar: një kontribut është dhuratë.
 4. **Prezantimi juaj.** Historia e plotë, fotoja kryesore, galeria dhe, nëse keni, një video nga YouTube ose Vimeo.
 5. **Shqyrto & dorëzo.** Një shikim i fundit mbi gjithçka, përfshirë nëse fushata është [e listuar apo e palistuar](/help/campaigns/listed-or-unlisted), pastaj e dërgoni për shqyrtim.
 
